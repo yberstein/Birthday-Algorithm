@@ -1,0 +1,2 @@
+# Birthday-Algorithm
+Probabilistic method to predict causative rare variants in case-control studies using a popular probabilistic problem, the Birthday Model, which estimates the probability that a group of individuals share the same birthday. We consider the probability and coincidence of samples sharing a variant akin to the chance of individuals sharing the same birthday. Can be applied in both variant or gene level analysis.
